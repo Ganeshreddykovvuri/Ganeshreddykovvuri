@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshreddykovvuri&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshreddykovvuri" /> </p>
 
-- 🔭 I’m currently working on [AIFS — AI Filmmaking Studio Building an AI-powered learning platform with secure authentication, video delivery, payments, and course management.](https://getwhatsflow.co.in)
+- 🔭 I’m currently working on **AIFS — AI Filmmaking Studio Building an AI-powered learning platform with secure authentication, video delivery, payments, and course management.**
 
 - 🌱 I’m currently learning **Advanced Python, Machine Learning, Deep Learning, SQL, and Data Engineering**
 
-- 👯 I’m looking to collaborate on [WhatsFlow — AI-Powered WhatsApp AutomationBuilding conversational AI, RAG-powered knowledge bases, and business automation solutions.](https://aifilmmakingstudio.in/)
+- 👯 I’m looking to collaborate on **WhatsFlow — AI-Powered WhatsApp AutomationBuilding conversational AI, RAG-powered knowledge bases, and business automation solutions.**
 
 - 🤝 I’m looking for help with **AI Agents, LLMs, RAG Pipelines, Machine Learning, and Data Engineering**
 
