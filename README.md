@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshreddykovvuri&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshreddykovvuri" /> </p>
 
-- 🔭 I’m currently working on **AIFS — AI Filmmaking Studio Building an AI-powered learning platform with secure authentication, video delivery, payments, and course management.**
 
 - 🌱 I’m currently learning **Advanced Python, Machine Learning, Deep Learning, SQL, and Data Engineering**
 
